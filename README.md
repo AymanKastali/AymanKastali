@@ -2,7 +2,7 @@
 ### Back-end developer (Python / Django) ###
 
 💬 Ask me about ***Python***, ***Django***, ***FastAPI*** and ***Django Rest Framework***.
-- 🎓 Bachelor's degree with ___Computer Engineering___.<br>
+- 🎓 Bachelor's degree in ___Computer Engineering___.<br>
 - 📜 Certified by ***Meta***, ***IBM***, ***DeepLearning.AI*** and ***AWS***:
   - ***[Meta Back-End Developer](https://coursera.org/share/a1761c10268e7556740a51a51f1013ff)***<br>
   - ***[IBM Data Analyst](https://coursera.org/share/2b5260118133d5464670436dc556ac81)***<br>
