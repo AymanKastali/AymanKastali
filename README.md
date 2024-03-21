@@ -12,4 +12,4 @@
 - 📫 How to reach:
   - 🌐 ***[website](https://www.aymankastali.com)***
   - 📧 ***aymankastali.backend@gmail.com***
-  - 📱 ***+971 555 952 741 (Calls / Whatsapp)***
+  - 📱 ***+971 555 952 741 (Calls / WhatsApp)***
