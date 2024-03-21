@@ -10,7 +10,7 @@
   - ***[DevOps on AWS](https://coursera.org/share/2b5260118133d5464670436dc556ac81)***<br>
 - 🌱 I’m currently learning about creating ___APIs___ with ***Typescript*** and ***Java***.<br>
 - 📫 How to reach:
-  - **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]:**  ***[linkedin.com/in/ayman-kastali-backend-developer](https://www.linkedin.com/in/ayman-kastali-backend-developer/)***
+  - **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]:**  ***[in/ayman-kastali-backend-developer](https://www.linkedin.com/in/ayman-kastali-backend-developer/)***
   - 🌐 ***[aymankastali.com](https://www.aymankastali.com)***
   - 📧 ***aymankastali.backend@gmail.com***
   - 📱 ***+971 555 952 741 (Calls / WhatsApp)***
