@@ -1,5 +1,5 @@
 ## Hi, This is ***Ayman***👋
-### Back-end developer (Python / Django) ###
+### Back-End Python developer ###
 
 💬 Ask me about ***Python***, ***Django***, ***FastAPI*** and ***Django Rest Framework***.
 - 🎓 Bachelor's degree in ___Computer Engineering___.<br>
