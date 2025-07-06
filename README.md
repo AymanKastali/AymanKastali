@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Ayman Kastali
 
-### 🧠 Backend Developer | Python & Go Specialist
+### 🧠 Softwear Engineer
 
-I'm a backend engineer passionate about building scalable, efficient, and secure systems using Python, Golang, and modern cloud-native tools. I focus on API design, microservices architecture, and DevOps integration to deliver production-ready solutions.
+I'm a backend developer passionate about building scalable, efficient, and secure systems using Python, Golang, and modern cloud-native tools. I focus on API design, microservices architecture, and DevOps integration to deliver production-ready solutions.
 
 ---
 
