@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ayman Kastali
 
-### 🧠 Softwear Engineer
+### 🧠 Software Engineer
 
 I'm a backend developer passionate about building scalable, efficient, and secure systems using Python, Golang, and modern cloud-native tools. I focus on API design, microservices architecture, and DevOps integration to deliver production-ready solutions.
 
