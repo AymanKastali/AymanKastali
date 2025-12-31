@@ -50,18 +50,18 @@ I specialize in building high-availability, distributed systems. With a dual bac
 
 ### 🎓 Education & Certifications
 
-* **B.Eng. in Computer Engineering**
+* **Bachelor's Degree in Computer Engineering**
 ---
 
 ### 📜 Certifications
 
 | Provider & Badge | Certification |
 |-----------------|---------------|
-| ![Codio](https://img.shields.io/badge/Codio-0070B8?style=for-the-badge&logo=coursera&logoColor=white) | [Advanced Django: Mastering Django and Django Rest Framework](https://coursera.org/share/b87ebc31eadacc41c7c4d684e57d1fb0) |
-| ![Meta](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white) | [Meta Back-End Developer Specialization](https://coursera.org/share/a1761c10268e7556740a51a51f1013ff) |
-| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | [DevOps on AWS](https://coursera.org/share/2b5260118133d5464670436dc556ac81) |
-| ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-000000?style=for-the-badge&logo=deeplearningai&logoColor=white) | [Machine Learning](https://coursera.org/share/aca241562b869b50ef5e15eb8ac3553c) |
-| ![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | [IBM Data Analyst](https://coursera.org/share/746cf963e4d8f910fbc74baeab535a0f) |
+| ![Codio](https://img.shields.io/badge/Codio-0070B8?style=flat-square&logo=coursera&logoColor=white) | [Advanced Django: Mastering Django and Django Rest Framework](https://coursera.org/share/b87ebc31eadacc41c7c4d684e57d1fb0) |
+| ![Meta](https://img.shields.io/badge/Meta-1877F2?style=flat-square&logo=meta&logoColor=white) | [Meta Back-End Developer Specialization](https://coursera.org/share/a1761c10268e7556740a51a51f1013ff) |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | [DevOps on AWS](https://coursera.org/share/2b5260118133d5464670436dc556ac81) |
+| ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-000000?style=flat-square&logo=deeplearningai&logoColor=white) | [Machine Learning](https://coursera.org/share/aca241562b869b50ef5e15eb8ac3553c) |
+| ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | [IBM Data Analyst](https://coursera.org/share/746cf963e4d8f910fbc74baeab535a0f) |
 
 
 ---
