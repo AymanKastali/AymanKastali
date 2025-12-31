@@ -48,7 +48,7 @@ I specialize in building high-availability, distributed systems. With a dual bac
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education
 
 * **Bachelor's Degree in Computer Engineering**
 ---
