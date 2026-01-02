@@ -7,7 +7,7 @@ I specialize in building high-availability, distributed systems. With a dual bac
 
 ### 🛠️ Core Competencies
 
-* **System Design:** Microservices, Event-Driven Architecture (EDA), REST & gRPC API Design.
+* **System Design:** Microservices, System Architecture, REST & gRPC API Design.
 * **Performance:** High-concurrency systems in **Go** and asynchronous workflows in **Python**.
 * **Data Engineering:** Architecting Polyglot Persistence (SQL, NoSQL, Graph) and Data Pipelines.
 * **DevOps:** Containerization, CI/CD automation, and Cloud Infrastructure (AWS).
