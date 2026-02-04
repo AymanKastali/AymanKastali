@@ -1,98 +1,163 @@
-# 🚀 Ayman Kastali
-### Back-End Developer & System Architect 🏗️
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=200&section=header&text=Ayman%20Kastali&fontSize=70&animation=fadeIn&fontColor=7aa2f7" alt="header" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=System+Architect;Backend+Developer&font=Fira+Code&center=true&width=500&height=45&color=7aa2f7&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
 I specialize in building high-availability, distributed systems. With a dual background in **Computer Engineering** and **Data Science**, I bridge the gap between complex analytical models and production-grade microservices.
 
----
-
-### 🛠️ Core Competencies
-
-* **System Design:** Microservices, System Architecture, REST & gRPC API Design.
-* **Performance:** High-concurrency systems in **Go** and asynchronous workflows in **Python**.
-* **Data Engineering:** Architecting Polyglot Persistence (SQL, NoSQL, Graph) and Data Pipelines.
-* **DevOps:** Containerization, CI/CD automation, and Cloud Infrastructure (AWS).
-
----
-
-### 🧰 Tech Stack
-
-#### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-00C0FF?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Drogon](https://img.shields.io/badge/Drogon-000000?style=flat-square&logo=drogon&logoColor=092E20)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-
-#### **Infrastructure & Databases**
-> **Persistence:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-
-> **Messaging & DevOps:**
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-#### **Data Science & ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+<div>
+  <h2>🛠️ Core Competencies</h2>
+  <ul>
+    <li><b>System Design:</b> Microservices, System Architecture, REST & gRPC API Design.</li>
+    <li><b>Performance:</b> High-concurrency systems in <b>Go</b> and asynchronous workflows in <b>Python</b>.</li>
+    <li><b>Data Engineering:</b> Architecting Polyglot Persistence (SQL, NoSQL, Graph) and Data Pipelines.</li>
+    <li><b>DevOps:</b> Containerization, CI/CD automation, and Cloud Infrastructure (AWS).</li>
+  </ul>
+</div>
 
 ---
 
-### 🎓 Education
-
-* **Bachelor's Degree in Computer Engineering**
----
-
-### 📜 Certifications
-
-| Provider & Badge | Certification |
-|-----------------|---------------|
-| ![Codio](https://img.shields.io/badge/Codio-0070B8?style=flat-square&logo=coursera&logoColor=white) | [Advanced Django: Mastering Django and Django Rest Framework](https://coursera.org/share/b87ebc31eadacc41c7c4d684e57d1fb0) |
-| ![Meta](https://img.shields.io/badge/Meta-1877F2?style=flat-square&logo=meta&logoColor=white) | [Meta Back-End Developer Specialization](https://coursera.org/share/a1761c10268e7556740a51a51f1013ff) |
-| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | [DevOps on AWS](https://coursera.org/share/2b5260118133d5464670436dc556ac81) |
-| ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-000000?style=flat-square&logo=deeplearningai&logoColor=white) | [Machine Learning](https://coursera.org/share/aca241562b869b50ef5e15eb8ac3553c) |
-| ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | [IBM Data Analyst](https://coursera.org/share/746cf963e4d8f910fbc74baeab535a0f) |
-
-
----
-
-### 📊 Engineering Velocity & System Metrics
-<table border="0">
+# 💻 My favorite tools and technologies
+<div align="center">
+<table align="center">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanKastali&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117" width="100%" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+      <br>Python
     </td>
-    <td width="25%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AymanKastali&theme=tokyonight" width="100%" />
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="50" height="50" />
+      <br>Go
     </td>
-    <td width="25%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AymanKastali&theme=tokyonight&utcOffset=4" width="100%" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
+      <br>Postgres
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="50" height="50" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cassandra" width="50" height="50" alt="Cassandra" />
+      <br>Cassandra
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="50" height="50" alt="RabbitMQ" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="Github Actions" />
+      <br>CI/CD
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="Tensorflow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn" />
+      <br>Scikit
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" alt="Ubuntu" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=qt" width="50" height="50" alt="Qt" />
+      <br>Qt
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+      <br>GitHub
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
-### 🤝 Contact Information
+### 📊 System Metrics & Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanKastali&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117" width="100%" />
+</p>
 
-| | Channel | Reach Out |
-| :---: | :--- | :--- |
-| 💼 | **LinkedIn** | [linkedin.com/in/ayman-kastali](https://www.linkedin.com/in/ayman-kastali/) |
-| 📧 | **Email** | [aymankastali@gmail.com](mailto:aymankastali@gmail.com) |
-| 💬 | **WhatsApp** | [+971 55 595 2741](https://wa.me/971555952741) |
-| 📞 | **Phone** | +971 50 776 2572 |
+<div align="center">
+  <table border="0" width="100%" style="max-width: 900px;">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AymanKastali&theme=tokyonight" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AymanKastali&theme=tokyonight&utcOffset=4" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🤝 Connect with me
+<div align="center">
+
+| Channel | Reach Out |
+| :--- | :--- |
+| 💼 **LinkedIn** | [linkedin.com/in/ayman-kastali](https://www.linkedin.com/in/ayman-kastali/) |
+| 📧 **Email** | [aymankastali@gmail.com](mailto:aymankastali@gmail.com) |
+| 💬 **WhatsApp** | [+971 55 595 2741](https://wa.me/971555952741) |
+| 📞 **Phone** | [+971 50 776 2572](tel:+971507762572) |
+
+</div>
 
 ---
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+  <br>
   <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
 </p>
