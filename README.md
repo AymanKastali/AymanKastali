@@ -28,93 +28,98 @@ I specialize in building high-availability, distributed systems. With a dual bac
 # 💻 My favorite tools and technologies
 <div align="center">
 <table align="center">
+  <!-- Row 1: Languages & Frameworks -->
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=go" width="50" height="50" alt="Go" />
       <br>Go
     </td>
-    <td align="center" width="96" valign="top">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django" />
       <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI" />
       <br>FastAPI
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" alt="REST API" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=qt" width="50" height="50" alt="Qt" />
+      <br>Qt
+    </td>
+  </tr>
+
+  <!-- Row 2: Databases, Messaging, Infra -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
       <br>Postgres
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="50" height="50" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis" />
+      <img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis" />
       <br>Redis
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cassandra" width="50" height="50" alt="Cassandra" />
+      <img src="https://skillicons.dev/icons?i=cassandra" width="50" height="50" alt="Cassandra" />
       <br>Cassandra
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="50" height="50" alt="RabbitMQ" />
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="50" height="50" alt="RabbitMQ" />
       <br>RabbitMQ
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
-      <br>Docker
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" alt="Nginx" />
+      <br>Nginx
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+
+  <!-- Row 3: Cloud, ML, OS & Tooling -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="Github Actions" />
+      <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="CI/CD" />
       <br>CI/CD
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch" />
+      <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch" />
       <br>PyTorch
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="Tensorflow" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow" />
       <br>TensorFlow
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn" />
-      <br>Scikit
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" alt="Ubuntu" />
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" alt="Ubuntu" />
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=qt" width="50" height="50" alt="Qt" />
-      <br>Qt
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" />
       <br>GitHub
     </td>
   </tr>
