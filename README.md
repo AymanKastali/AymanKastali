@@ -37,8 +37,8 @@ I specialize in building high-availability, distributed systems. With a dual bac
         <img src="https://skillicons.dev/icons?i=go" alt="Go" width="50" height="50" />
       <br>Go
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" />
+    <td align="center" width="96" valign="top">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
       <br>C++
     </td>
     <td align="center" width="96">
@@ -103,7 +103,7 @@ I specialize in building high-availability, distributed systems. With a dual bac
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" alt="Ubuntu" />
-      <br>Pandas
+      <br>Ubuntu
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=qt" width="50" height="50" alt="Qt" />
