@@ -143,6 +143,14 @@ I specialize in building high-availability, distributed systems. With a dual bac
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AymanKastali&theme=tokyonight&utcOffset=4" width="100%" />
       </td>
     </tr>
+     <tr>
+      <td align="center" width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AymanKastali&theme=tokyonight" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AymanKastali&theme=tokyonight" width="100%" />
+      </td>
+    </tr>
   </table>
 </div>
 
