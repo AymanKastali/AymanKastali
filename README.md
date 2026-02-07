@@ -11,15 +11,20 @@
 ---
 
 ### 🚀 About Me
-I specialize in building high-availability, distributed systems. With a dual background in **Computer Engineering** and **Data Science**, I bridge the gap between complex analytical models and production-grade microservices.
+**Backend Developer / System Architect | 6+ Years | Python, Go & C++**
+
+**Backend Engineer with 6+ years of experience** specializing in the design and implementation of **high-performance, scalable microservices**. Expert in **Python (FastAPI) and Go**, with a deep foundation in **System Architecture** and **Clean Architecture** principles. 
+
+As a **System Architect**, I focus on building robust, maintainable backend infrastructures that prioritize **efficiency and code quality**. My expertise lies in transforming complex requirements into **decoupled microservices**, leveraging **SOLID principles** and **Design Patterns** to ensure long-term system stability. I am dedicated to writing clean, testable code that solves **architectural challenges at scale**.
 
 <div>
   <h2>🛠️ Core Competencies</h2>
   <ul>
-    <li><b>System Design:</b> Microservices, System Architecture, REST & gRPC API Design.</li>
-    <li><b>Performance:</b> High-concurrency systems in <b>Go</b> and asynchronous workflows in <b>Python</b>.</li>
-    <li><b>Data Engineering:</b> Architecting Polyglot Persistence (SQL, NoSQL, Graph) and Data Pipelines.</li>
-    <li><b>DevOps:</b> Containerization, CI/CD automation, and Cloud Infrastructure (AWS).</li>
+    <li><b>System Architecture & Design:</b> Designing scalable ecosystems using <b>Domain-Driven Design (DDD)</b>, <b>Clean Architecture</b>, and <b>SOLID principles</b> to ensure modularity and system stability.</li>
+    <li><b>High-Performance Backend:</b> Developing high-concurrency microservices in <b>Go</b> and <b>Python (FastAPI)</b>, utilizing <b>gRPC</b> and <b>Asynchronous programming</b> for low-latency communication.</li>
+    <li><b>Data Engineering & Storage:</b> Implementing multi-database strategies including <b>PostgreSQL</b> (Relational), <b>Redis</b> (Caching/Messaging), and NoSQL solutions like <b>MongoDB</b> and <b>Cassandra</b>.</li>
+    <li><b>Distributed Systems & Messaging:</b> Architecting inter-service communication using <b>RabbitMQ</b> and <b>Redis</b>, ensuring reliable data flow and decoupled service interactions.</li>
+    <li><b>DevOps & Containerization:</b> Expert in <b>Docker</b> orchestration (Multi-stage builds, security optimization) and automating deployment via <b>GitHub Actions (CI/CD)</b>.</li>
   </ul>
 </div>
 
@@ -28,7 +33,6 @@ I specialize in building high-availability, distributed systems. With a dual bac
 # 💻 My favorite tools and technologies
 <div align="center">
 <table align="center">
-  <!-- Row 1: Languages & Frameworks -->
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
@@ -60,7 +64,6 @@ I specialize in building high-availability, distributed systems. With a dual bac
     </td>
   </tr>
 
-  <!-- Row 2: Databases, Messaging, Infra -->
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
@@ -92,7 +95,6 @@ I specialize in building high-availability, distributed systems. With a dual bac
     </td>
   </tr>
 
-  <!-- Row 3: Cloud, ML, OS & Tooling -->
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
@@ -103,12 +105,12 @@ I specialize in building high-availability, distributed systems. With a dual bac
       <br>CI/CD
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch" />
-      <br>PyTorch
+      <img src="https://skillicons.dev/icons?i=prometheus" width="50" height="50" alt="Prometheus" />
+      <br>Prometheus
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow" />
-      <br>TensorFlow
+      <img src="https://skillicons.dev/icons?i=grafana" width="50" height="50" alt="Grafana" />
+      <br>Grafana
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" alt="Ubuntu" />
