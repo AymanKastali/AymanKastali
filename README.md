@@ -4,18 +4,18 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=System+Architect;Backend+Developer&font=Fira+Code&center=true&width=500&height=45&color=7aa2f7&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer&font=Fira+Code&center=true&width=500&height=45&color=7aa2f7&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-**Backend Developer / System Architect | 6+ Years | Python, Go & C++**
+**Backend Engineer | 6+ Years | Python, Go & C++**
 
 **Backend Engineer with 6+ years of experience** specializing in the design and implementation of **high-performance, scalable microservices**. Expert in **Python (FastAPI) and Go**, with a deep foundation in **System Architecture** and **Clean Architecture** principles. 
 
-As a **System Architect**, I focus on building robust, maintainable backend infrastructures that prioritize **efficiency and code quality**. My expertise lies in transforming complex requirements into **decoupled microservices**, leveraging **SOLID principles** and **Design Patterns** to ensure long-term system stability. I am dedicated to writing clean, testable code that solves **architectural challenges at scale**.
+As a **Backend Engineer**, I focus on building robust, maintainable backend infrastructures that prioritize **efficiency and code quality**. My expertise lies in transforming complex requirements into **decoupled microservices**, leveraging **SOLID principles** and **Design Patterns** to ensure long-term system stability. I am dedicated to writing clean, testable code that solves **architectural challenges at scale**.
 
 <div>
   <h2>🛠️ Core Competencies</h2>
