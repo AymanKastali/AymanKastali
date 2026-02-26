@@ -59,8 +59,8 @@ As a **Backend Engineer**, I focus on building robust, maintainable backend infr
       <br>REST API
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=qt" width="50" height="50" alt="Qt" />
-      <br>Qt
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" height="50" alt="GraphQL" />
+      <br>GraphQL
     </td>
   </tr>
 
@@ -86,12 +86,12 @@ As a **Backend Engineer**, I focus on building robust, maintainable backend infr
       <br>RabbitMQ
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" alt="Nginx" />
-      <br>Nginx
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+      <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
-      <br>Docker
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" />
+      <br>GitHub
     </td>
   </tr>
 
@@ -117,12 +117,12 @@ As a **Backend Engineer**, I focus on building robust, maintainable backend infr
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
-      <br>Git
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" alt="Nginx" />
+      <br>Nginx
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" />
-      <br>GitHub
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
+      <br>Docker
     </td>
   </tr>
 </table>
